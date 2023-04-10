@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: chartreuse;
+}
+
+
+
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+    
+}
+
+.increase{
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+}
+
+.rese{
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: red
+    ;
+}
+
+.decrease{
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+.num{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+
+}
+
+.counter h1{
+    text-align: center;
+    padding-left: 50px;
+}
